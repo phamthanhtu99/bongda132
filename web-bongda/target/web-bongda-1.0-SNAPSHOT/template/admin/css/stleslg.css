@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.skinbbody{
+ background-image: url("../anh/hinh-nen-bong-da-dep-1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-x: right;
+}
+.card {
+    opacity: 0.5;
+    color: #2e2ec7;
+    font-size: 20px;
+    border: 1px solid;
+    width: fit-content;
+    filter: invert(1);
+    margin-top: 10%;
+}

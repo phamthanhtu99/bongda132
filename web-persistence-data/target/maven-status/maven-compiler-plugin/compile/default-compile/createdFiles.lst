@@ -1,0 +1,8 @@
+com\persisterce\Team_statusEntity.class
+com\persisterce\UserEntity.class
+com\persisterce\RoleEntity.class
+com\persisterce\BaseEntity.class
+com\persisterce\Team_UserEntity.class
+com\persisterce\Role_teamEntity.class
+com\persisterce\TeamEntity.class
+com\persisterce\team_userkey.class

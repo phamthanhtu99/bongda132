@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+    <persistence-unit name="persistence-data">
+        <class>com.persisterce.BaseEntity</class>
+        <class>com.persisterce.TeamEntity</class>
+        <class>com.persisterce.UserEntity</class>
+        <class>com.persisterce.RoleEntity</class>
+        <class>com.persisterce.team_userkey</class>
+        <class>com.persisterce.Team_UserEntity</class>
+        <class>com.persisterce.Role_teamEntity</class>
+        <class>com.persisterce.Team_statusEntity</class>
+
+    </persistence-unit>
+</persistence>
+

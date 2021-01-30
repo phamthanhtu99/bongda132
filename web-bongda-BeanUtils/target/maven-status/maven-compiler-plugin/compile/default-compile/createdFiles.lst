@@ -1,0 +1,8 @@
+com\BeanUtils\RoleBeanUtils.class
+com\BeanUtils\TeamBaenUtils.class
+com\BeanUtils\Team_UsekeyUtils.class
+com\BeanUtils\modelMapper.class
+com\BeanUtils\Team_roleUtils.class
+com\BeanUtils\Team_UserUtils.class
+com\BeanUtils\Status_team_useUtils.class
+com\BeanUtils\UserBeanUtils.class

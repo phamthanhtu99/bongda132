@@ -1,0 +1,3 @@
+com\config\JpaAuditingConfig$AuditorAwareImpl.class
+com\config\JpaAuditingConfig.class
+com\config\JPAConfig.class

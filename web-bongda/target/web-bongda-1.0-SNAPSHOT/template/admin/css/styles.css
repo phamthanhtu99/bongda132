@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+img.card-img-top {object-fit: cover;height: 184px;}
+
+
+.image-title-wrap {
+    width: 300px;
+    height: 195px;
+    overflow: hidden;
+}
+
+.col-sm-12.bg-light.mt-1 {
+    opacity: 0.6;
+    float: left;
+    filter: invert(1);
+}
+.fakeim1 {
+    background-image:url("../anh/tải xuống.jpg");
+    height: auto;
+    width: -webkit-fill-available;
+}
+.col-sm-3.bg-light.mr-1 {
+    height: fit-content;
+}
+#bodybackrau{
+    background-image: url("../anh/Sân-vận-động-lớn-nhất-Việt-Nam-Vietnam9.net-Hình-ảnh-mô-phỏng-tuyệt-đẹp-của-sân-vận-động-lớn-nhất-Việt-Nam.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.col-sm-12 bg-light  mt-1{
+    opacity: 0.6;
+    float: left;
+    filter: invert(1);
+}
+
+.col-sm-4.thongtin {
+    margin-bottom: 37px;
+}
+img.fakeim1 {
+    /* margin: 1px; */
+    margin-left: -15px;
+}
+img.anhteam {height: 200px;margin: 6px;margin-left: 28px;filter: invert(1);}
+
+.col-sm-12.bg-light.mt-1 {
+    opacity: 0.6;
+    float: left;
+    filter: invert(1);
+}
+button.btn.btn-primary.position-fixed {
+    display: block;
+    width: 47px;
+}
+.card.container {
+    width: 260px;
+    float: left;
+}

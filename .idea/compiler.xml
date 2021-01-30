@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web-bongda-service" />
+        <module name="test" />
+        <module name="web-bongda" />
+        <module name="web-persistence-data" />
+        <module name="Google-driver-api" />
+        <module name="web-bongda-security" />
+        <module name="web-bongda-repository" />
+        <module name="web-bongda-serviceImpl" />
+        <module name="web-bongda-config" />
+        <module name="web-bongda-dto" />
+        <module name="web-logic-bongda" />
+        <module name="web-bongda-API" />
+        <module name="web-bongda-BeanUtils" />
+        <module name="web-bongda-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Google-drive-api" target="1.8" />
+      <module name="tets" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\repository\TeamRepository.class
+com\repository\Team_userReository.class
+com\repository\RoleReository.class
+com\repository\UserRepository.class
